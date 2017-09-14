@@ -8,8 +8,8 @@ categories: My Blog
 
 ![AnimePic](https://imgur.com/Dslak2a.jpg)
 
-![YoutubeChannel](https://imgur.com/cKWNg8o)
-
+![YoutubeChannel](https://imgur.com/cKWNg8o.png)
+[YoutubeChannel](https://www.youtube.com/channel/UCsGQOhINsMW-aAEWzjGslfQ?view_as=subscriber)
 
 # [click link to watch Anime Online]
 [Anime-Sugoi](http://www.anime-sugoi.com/)
