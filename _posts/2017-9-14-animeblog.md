@@ -5,10 +5,10 @@ date: 2017-9-14 18:59:00 +0700
 categories: My Blog
 ---
 
-                                                             # Anime Bolg.
+#                                                                     Anime Bolg.
 ![AnimePic](https://imgur.com/Dslak2a.jpg)
 
-                                                     # [click link to watch Anime Online]
-                                                   [Anime-Sugoi](http://www.anime-sugoi.com/)
+#                                                             [click link to watch Anime Online]
+                                                           [Anime-Sugoi](http://www.anime-sugoi.com/)
 
 # Anime Picture 
