@@ -11,4 +11,5 @@ categories: My Blog
 # [click link to watch Anime Online]
 [Anime-Sugoi](http://www.anime-sugoi.com/)
 
-# Anime Picture 
+# Anime Type
+
