@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Welcom to Anime Blog.[Anime By Anime-Sugoi.com]
+title: Welcom to Anime Blog.
 date: 2017-9-14 18:59:00 +0700
 categories: My Blog
 ---
 
 
+# [Anime By Anime-Sugoi.com]
 ![AnimePic](https://imgur.com/Dslak2a.jpg)
 
 # [click link to watch Anime Online]
