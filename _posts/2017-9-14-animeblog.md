@@ -8,4 +8,4 @@ categories: My Blog
 # Anime Bolg.
 
 (http://www.anime-sugoi.com/)
-![AnimePic](https://imgur.com/Dslak2a)
+![AnimePic](https://imgur.com/Dslak2a.jpg)
