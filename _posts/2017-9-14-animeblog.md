@@ -12,4 +12,6 @@ categories: My Blog
 [Anime-Sugoi](http://www.anime-sugoi.com/)
 
 # Anime Type
+## Anime Sub Thai
+[subthai](http://www.anime-sugoi.com/catalog/15/%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.html)
 
