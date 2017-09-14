@@ -7,8 +7,6 @@ categories: My Blog
 
 # Anime Bolg.
 
-# [click link to watch Anime Online]
-
-[Anime-Sugoi](http://www.anime-sugoi.com/)
-
 ![AnimePic](https://imgur.com/Dslak2a.jpg)
+
+# Anime Picture 
