@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcom to Anime Blog.
+title: Welcome to Anime Blog.
 date: 2017-9-14 18:59:00 +0700
 categories: My Blog
 ---
